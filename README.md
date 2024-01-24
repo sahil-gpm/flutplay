@@ -1,16 +1,9 @@
-# flutplay
 
-A new Flutter project.
+# FlutPlay - a simple music player
 
-## Getting Started
+A simple music player which have a single yet beautiful screen to play, pause and replay the song. I am recently starting woth flutter so this is one of my few first apps.
 
-This project is a starting point for a Flutter application.
+# Screenshots 
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 17 41 1demo-3](https://github.com/sahil-gpm/flutplay/assets/142314251/a9e0c30c-d333-48e0-824a-a35fa4927f03)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
