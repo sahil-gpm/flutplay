@@ -1,7 +1,7 @@
 
 # FlutPlay - a simple music player
 
-A simple music player which have a single yet beautiful screen to play, pause and replay the song. I am recently starting woth flutter so this is one of my few first apps.
+A simple music player which have a single yet beautiful screen to play, pause and replay the song. I am recently starting with flutter so this is one of my few first apps.
 
 # Screenshots 
 
